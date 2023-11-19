@@ -1,0 +1,3 @@
+com\peri\qa\base\TestBase.class
+com\peri\qa\pages\DashboardPage.class
+com\peri\qa\pages\LoginPage.class
